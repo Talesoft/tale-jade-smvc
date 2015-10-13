@@ -45,3 +45,14 @@ The final Class should look like this:
 
         }
     }
+
+Because we didn't removed the `$view View` you still can use the `View::render[Template]` Methods if you want.
+
+# Further Questions?
+
+For further question don't hesitate to ask us!
+
+Cagatay Ulubay <cu@talesoft.io>
+Torben Köhn <tk@talesoft.io>
+
+URL: http://jade.talesoft.io
