@@ -50,9 +50,9 @@ Because we didn't removed the `$view View` you still can use the `View::render[T
 
 # Further Questions?
 
-For further question don't hesitate to ask us!
+For further questions don't hesitate to ask us!
 
-Cagatay Ulubay <cu@talesoft.io>  
+Cagatay Ulubay <cu@talesoft.io>
 Torben Köhn <tk@talesoft.io>
 
 URL: http://jade.talesoft.io
