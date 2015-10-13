@@ -9,8 +9,9 @@ Simply add following into the `Core\Controller` Class:
         'paths' => [__DIR__.'/../views']
     ]);
 
+Also don't forget to *Add following as property:* `public $renderer;`
+
 That's it! Now instead using the `View::render[Template]` Methods, you can use:
 
     echo $this->renderer->render('filename', ['data' => $data]);
 
-    
