@@ -1,0 +1,10 @@
+app/Core/Config.php
+.DS_Store
+
+*.name
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/tale-jade-smvc.iml
+.idea/vcs.xml
+.idea/workspace.xml

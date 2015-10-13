@@ -1,0 +1,83 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "f8ca6ee5391f9e7c73c47fb38391d756",
+    "content-hash": "28b731937b329cff270a869d26808a65",
+    "packages": [
+        {
+            "name": "talesoft/tale-jade",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Talesoft/tale-jade.git",
+                "reference": "7f729aa3c0dbd6d5e8d3a8d2543d4bc7f470b8c8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Talesoft/tale-jade/zipball/7f729aa3c0dbd6d5e8d3a8d2543d4bc7f470b8c8",
+                "reference": "7f729aa3c0dbd6d5e8d3a8d2543d4bc7f470b8c8",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": ">=4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Tale\\Jade\\": ""
+                },
+                "files": [
+                    "functions.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Torben Koehn",
+                    "email": "tk@talesoft.io"
+                },
+                {
+                    "name": "Tale Jade Community",
+                    "homepage": "https://github.com/Talesoft/tale-jade/graphs/contributors"
+                },
+                {
+                    "name": "Talesoft",
+                    "email": "info@talesoft.io",
+                    "homepage": "http://talesoft.io"
+                }
+            ],
+            "description": "A complete and fully-functional implementation of the Jade template language for PHP",
+            "homepage": "http://jade.talesoft.io",
+            "keywords": [
+                "dialect",
+                "html",
+                "jade",
+                "php",
+                "phtml",
+                "presentation",
+                "template",
+                "views"
+            ],
+            "time": "2015-10-10 11:59:42"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=5.4.0"
+    },
+    "platform-dev": []
+}
